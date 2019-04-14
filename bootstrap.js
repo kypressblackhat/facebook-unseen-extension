@@ -44,5 +44,5 @@ function startup(data, reason) {
 
 function shutdown(data, reason) {
     obs.unregister();
-    obs = null;
+    obs = null; 
 }
