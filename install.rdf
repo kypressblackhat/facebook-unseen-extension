@@ -19,7 +19,7 @@
     <em:name>Unseen</em:name>
     <em:description>Blocks sending your 'seen' status from being sent to the other party on Facebook.</em:description>
     <em:creator>tangrs</em:creator>
-    <em:homepageURL>https://github.com/tangrs/unseen-extension</em:homepageURL>
+    <em:homepageURL>https://github.com/kypressblackhat/unseen-extension</em:homepageURL>
     <em:bootstrap>true</em:bootstrap>
   </Description>
 </RDF>
